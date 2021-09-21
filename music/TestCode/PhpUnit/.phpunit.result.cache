@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"UserTest::testUserName":0.005,"UserTest::testPassword":0,"UserTest::testEmailAddressCanBeSet":0,"UserTest::testEmailVariablesContainCorrectValues":0,"UserTest::testLogin":0,"UserTest::testSignup":0,"UserTest::testcheck_logged_in":0,"UserTest::testlogout":0}}

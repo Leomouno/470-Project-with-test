@@ -1,0 +1,29 @@
+.login-page{
+  margin-top:20%;
+  margin-bottom:10%;
+  margin-left:100px;
+  margin-right:100px;
+}
+  .form{
+ border:solid;
+ border:1px;
+padding-left: 300px;
+padding-right: 300px;
+padding-top: 100px;
+padding-bottom:80px;
+}
+  /* .login-form{
+  width:500px;
+} */
+
+
+/* .input{
+  padding: 10px;
+
+} */
+.form-control{
+  font-size: 1.5rem !important;
+}
+.btn{
+  font-size: 1.5rem !important;
+}
